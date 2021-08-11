@@ -14,7 +14,7 @@ get smart contract abi code in okexchain using python (for verified smart contra
 
 
 ```sh
-import get_contractAbi.py
+import get_contractAbi
 abiCode = get_contractAbi.get_contractAbi(contract_address)
 
 ```
