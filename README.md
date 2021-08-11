@@ -1,5 +1,5 @@
 ## Features
-get smart contract abi code in okexchain using python (for verified smart contracts)
+Get smart contract abi code in okexchain using python (for verified smart contracts)
 
 
 
